@@ -1,4 +1,4 @@
-# Hi there, I'm [Your First Name]! 👋
+# Hi there, I'm Teagan! 👋
 
 I'm a Cybersecurity student at **Brigham Young University-Idaho**, specializing in Cloud Security and Automation.
 
